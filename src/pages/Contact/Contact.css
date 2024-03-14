@@ -1,0 +1,32 @@
+.div-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.ulContact {
+    list-style: none;
+}
+
+.social-links-contact {
+    font-size: 18px;
+    display: inline-block;
+    background: #212431;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.social-links-contact:hover {
+    background: #149ddd;
+    color: #fff;
+    text-decoration: none;
+}
