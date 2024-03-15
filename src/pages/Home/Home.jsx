@@ -28,7 +28,7 @@ const Home = () => {
     }, []);
 
     return (
-        <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
+        <section id="hero" className="d-flex flex-column justify-content-center align-items-center my-5">
             <div className="hero-container" data-aos="fade-in">
                 <h1>Hektor Augusto</h1>
                 <p>Eu Sou <span className="typed" ref={typedRef}></span></p>

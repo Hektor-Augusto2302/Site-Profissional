@@ -2,7 +2,7 @@ import './Resume.css';
 
 const Resume = () => {
     return (
-        <section id="resume" className="resume mt-5">
+        <section id="resume" className="resume my-5">
             <div className="container">
                 <div className="section-title">
                     <h2>Resumo</h2>

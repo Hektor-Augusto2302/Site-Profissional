@@ -14,7 +14,7 @@ const About = () => {
     const textAbout = "Sou um profissional versátil com formação em Engenharia de Produção e habilidades em desenvolvimento Full Stack. Com minha experiência e paixão por solucionar problemas, estou comprometido em criar soluções inovadoras e eficientes que impulsionam o crescimento e a excelência em projetos de tecnologia."
 
     return (
-        <section id="about" className="about mt-5 d-flex justify-content-center align-items-center flex-column">
+        <section id="about" className="about my-5 d-flex justify-content-center align-items-center flex-column">
             <div className="container">
                 <div className="section-title">
                     <h2>Sobre</h2>
