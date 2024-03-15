@@ -22,7 +22,7 @@ const About = () => {
                 </div>
                 <div className="row">
                     <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                        <h3>Engenheiro de Produção &amp; Dsenvolvedor Full Stack.</h3>
+                        <h3>Engenheiro de Produção &amp; Desenvolvedor Full Stack.</h3>
                         <div className="row">
                             <div className="col-lg-6">
                                 <ul>
